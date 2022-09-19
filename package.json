@@ -1,0 +1,20 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "description": "Test-Node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSIT-3-1/Vicentina-Kurt-node-repo.git"
+  },
+  "author": "Kurt Vicentina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSIT-3-1/Vicentina-Kurt-node-repo/issues"
+  },
+  "homepage": "https://github.com/BSIT-3-1/Vicentina-Kurt-node-repo#readme"
+}
